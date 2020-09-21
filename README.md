@@ -13,3 +13,4 @@
 ### [Fatsia](https://nicmotta.github.io/proyecto_observatorio/Sensado_Fatsia)
 ### [Lombrices](https://nicmotta.github.io/proyecto_observatorio/Sensado_Lombrices)
 ### [En invierno alimento a los pájaros](https://nicmotta.github.io/proyecto_observatorio/Sensado_Pajaros)
+### [Pase de Brus](https://nicmotta.github.io/proyecto_observatorio/Sensado_Brus)
