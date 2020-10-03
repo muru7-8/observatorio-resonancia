@@ -2,8 +2,8 @@
 ## Avance del proyecto
 
 ### Integrantes:
-   - Claudia Valente - concepto y coordinación
-   - Lupita Chavez Pardo -
+   - Claudia Valente - coordinación, concepto, poética y sensado
+   - Lupita Chavez Pardo - concepto, poética y sensado
    - Leandro Barbeito - diseño electrónico - comunicación inalámbrica
    - Nic Motta - diseño numérico y modelización
 
