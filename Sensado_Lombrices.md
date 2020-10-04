@@ -1,4 +1,4 @@
-# Sensado de Lombrices
+# Lombrices
 
 ## Dia 1
 ### Cantidad datos analizados: 269200
