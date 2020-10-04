@@ -1,11 +1,4 @@
-# proyecto_observatorio
-## Avance del proyecto
-
-### Integrantes:
-   - Claudia Valente - coordinación, concepto, poética y sensado
-   - Lupita Chavez Pardo - concepto, poética y sensado
-   - Leandro Barbeito - diseño electrónico - comunicación inalámbrica
-   - Nic Motta - diseño numérico y modelización
+# Observatorio de resonancia
 
 ## Sensados:
 ### [Semillas de Achira](https://muru7-8.github.io/proyecto_observatorio/Sensado_Semillas)
