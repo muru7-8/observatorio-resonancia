@@ -1,4 +1,3 @@
-# [proyecto_observatorio](https://nicmotta.github.io/proyecto_observatorio/)
 # Paseo de Brus
 
 ### Cantidad datos analizados: 654
