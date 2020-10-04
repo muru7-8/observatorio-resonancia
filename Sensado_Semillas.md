@@ -1,4 +1,4 @@
-## Sensado Semillas / Claudia
+## Sensado Semillas
 
 ### Fechas:
 
