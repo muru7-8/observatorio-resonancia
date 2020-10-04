@@ -1,4 +1,4 @@
-# Sensado de Fatsia
+# Fatsia Japónica en el solsticio
 
 ## Dia 1
 ### Cantidad datos analizados: 14400
