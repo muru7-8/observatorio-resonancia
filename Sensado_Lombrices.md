@@ -1,4 +1,3 @@
-# [proyecto_observatorio](https://nicmotta.github.io/proyecto_observatorio/)
 # Sensado de Lombrices
 
 ## Dia 1
