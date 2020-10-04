@@ -1,6 +1,7 @@
 # Observatorio de resonancia
 
-## Sensados:
+## Resonancias sensadas en los roces vitales:
+
 ### [Semillas de Achira](https://muru7-8.github.io/proyecto_observatorio/Sensado_Semillas)
 ### [Achira en la tormenta](https://muru7-8.github.io/proyecto_observatorio/Sensado_Achira)
 ### [Fatsia](https://muru7-8.github.io/proyecto_observatorio/Sensado_Fatsia)
